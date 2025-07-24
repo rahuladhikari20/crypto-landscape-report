@@ -3,7 +3,7 @@ A report on classical to post-quantum cryptography and protocols written during 
 his repository contains a technical report I wrote during my internship at IIT.  
 It explores the evolution of cryptography—from classical and modern cryptography to post-quantum cryptography (PQC)—with comparative tables, use cases, and protocol analysis.
 
-📄 [Download the full report](./Crypto_Landscape (1).pdf)
+📄 [Download the full report](./Crypto_Landscape(1).pdf)
 
 ## Topics Covered
 - Cryptography fundamentals and significance
